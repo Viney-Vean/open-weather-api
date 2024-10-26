@@ -1,0 +1,15 @@
+fastapi
+pydantic
+sqlmodel
+sqlalchemy
+uvicorn
+asyncpg
+python-jose
+passlib
+pydantic-settings
+requests
+greenlet
+passlib
+bcrypt
+pandas
+httpx
